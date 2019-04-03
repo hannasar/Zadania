@@ -9,7 +9,3 @@ def NewList():
         List.append(k)
         k+=0.5
     return List 
-
-
-if __name__=='__main__':
-    print(NewList())
